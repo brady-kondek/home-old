@@ -1,7 +1,7 @@
 ---
 title: DisneyWorldMan Website
 layout: post
-category: Identity Site
+category: Identity
 status: NOT COMPLETE
 date: 2019-9-13
 ---
