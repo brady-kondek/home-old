@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://www.bradykondek.ga</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.bradykondek.ga/about</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.bradykondek.ga/kondekgames/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.bradykondek.ga/bshs-webmaster/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.bradykondek.ga/study-bshs/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.bradykondek.ga/inside-earth-science-game/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>https://www.bradykondek.ga/kondekgames/#contact</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
