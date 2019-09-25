@@ -6,7 +6,7 @@ status: COMPLETE
 date: 2018-10-2
 ---
 
-<center><img src="https://www.bradykondek.ga/pics/super-sports-man-racing.png"></center>
+<center><img src="https://www.bradykondek.ga/pics/super-sports-man-racing-logo.png"></center>
 
 ## <u>About this Project</u>
 
