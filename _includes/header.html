@@ -24,6 +24,15 @@
                         </i>
                     </a>
                 {% endif %}
+                <!-- feature -->
+                {% if page.home_btn != false %}
+                    <a class="header_btn" href="https://www.bradykondek.ga/feature-of-the-week">
+                            {% if page.btn_text != false %}
+                                <p class="btn_text">Feature of the Week</p>
+                            {% endif %}
+                        </i>
+                    </a>
+                {% endif %}
                 <!-- github -->
                 {% if site.github != "" %}
                     <a class="header_btn" target="_blank" href="https://github.com/bradykondek">
