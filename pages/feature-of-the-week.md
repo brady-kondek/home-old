@@ -7,4 +7,4 @@ encrypted_text: false
 permalink: /feature-of-the-week
 ---
 
-# THE FEATURE OF THE WEEK
+# <center>THE FEATURE OF THE WEEK</center>
