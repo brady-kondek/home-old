@@ -6,8 +6,6 @@ status: COMPLETE
 date: 2018-10-2
 ---
 
-<center><img src="https://www.bradykondek.ga/pics/super-sports-man-racing-logo.png"></center>
-
 ## <u>About this Project</u>
 
 Super Sports Man Racing is a blog-website made for a client themed to race cars, more specifically dirt racing.
