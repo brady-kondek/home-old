@@ -16,7 +16,7 @@ This project placed 3rd at the Region 3 Pennsylvania TSA conference in Gettysbur
 
 ## <u>View the Video</u>
 
-<video width="320" height="240" controls>
+<video width="400" height="300" controls>
   <source src="https://www.bradykondek.ga/videos/2019-stem-animation.mp4" type="video/mp4">
   Your browser does not support displaying videos through HTML.
 </video>
