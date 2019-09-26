@@ -11,7 +11,7 @@ encrypted_text: false
 permalink: /
 ---
 
-# BRADY KONDEK
+# BRADY KONDEK - OFFICIAL WEBSITE
 
 
 <center>Welcome to my site!  This is the place where you can find all of my projects and some other fun stuff I put together.  I will have a random cool mini-project, that I either find or make, posted called The Feature of the Week.
