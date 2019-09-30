@@ -24,4 +24,6 @@ This site has an Apache License 2.0 which restricts the reproduction of this sit
 
 If you would like to view the site, please visit:
 
-<a target="_blank" href="https://www.bshswebmaster.ga">https://www.bshswebmaster.ga</a>
+<a target="_blank" href="https://www.bshswebmaster.ga">Chapter Site</a>
+
+<a target="_blank" href="https://designbrief.bshswebmaster.ga">Design Brief</a>
