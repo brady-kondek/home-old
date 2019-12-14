@@ -3,7 +3,7 @@ title: Brady Kondek
 owner: "Official Website"
 url: "https://old.bradykondek.ga"
 
-baseurl: 
+baseurl: "https://old.bradykondek.ga"
 permalink: /:title/
 description: ""
 markdown: kramdown
