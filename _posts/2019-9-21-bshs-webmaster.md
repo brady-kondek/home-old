@@ -2,7 +2,7 @@
 title: 2020 BSHS Webmaster Project
 layout: post
 category: TSA
-status: NOT COMPLETE
+status: COMPLETE
 date: 2019-9-14
 ---
 
@@ -27,3 +27,5 @@ If you would like to view the site, please visit:
 <a target="_blank" href="https://www.bshswebmaster.ga">Chapter Site</a>
 
 <a target="_blank" href="https://designbrief.bshswebmaster.ga">Design Brief</a>
+
+<a target="_blank" href="https://documentation.bshswebmaster.ga">Documentation</a>
